@@ -4,6 +4,6 @@ Este repositório contém experimentos e anotações feitas enquanto eu estudava
 
 ## Links
 
-https://labix.org/lunatic-python: @gniemeyer sempre um passo à frente, tem seus próprios experimentos com Lua, entre eles esse projeto que permite embutir Lua em Python e vice-versa.
+* **Lunatic Python**: @gniemeyer sempre um passo à frente, tem seus próprios experimentos com Lua, entre eles esse projeto que permite embutir Lua em Python e vice-versa. Página original: https://labix.org/lunatic-python. Fork atualizado: https://github.com/bastibe/lunatic-python
 
 
