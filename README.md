@@ -9,3 +9,9 @@ Este repositório contém experimentos e anotações feitas enquanto eu estudava
 * **lua-users** Wiki and more links: http://lua-users.org/
 
 * **Lua FAQ**: http://lua-users.org/wiki/LuaFaq
+
+* **London Lua**: http://www.londonlua.org/
+
+### Talks
+
+* Lua: the world's most infuriating language: http://pt.slideshare.net/jgrahamc/lua-the-worlds-most-infuriating-language
